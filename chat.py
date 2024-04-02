@@ -1,7 +1,7 @@
 import streamlit as st
 
 
-st.title("ChatGPT-like clone")
+st.title("Investment Assistant")
 
 # Initialize chat history
 if "messages" not in st.session_state:
